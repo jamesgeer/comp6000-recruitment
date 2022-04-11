@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="41cdc016-9e1b-460d-9a85-c183e47219aa" name="kent">
+        <fileTransfer rootFolder="/home/cot/jg680/public_html/" accessType="SFTP" host="raptor.kent.ac.uk" port="22" sshConfigId="5d258b14-0842-4b0a-bb4e-2e42954d655b" sshConfig="jg680@raptor.kent.ac.uk:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

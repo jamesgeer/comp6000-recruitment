@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="raptor.kent.ac.uk" id="5d258b14-0842-4b0a-bb4e-2e42954d655b" port="22" nameFormat="DESCRIPTIVE" username="jg680" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>
